@@ -1,0 +1,1 @@
+Projeto para criar uma calculadora de Média, utilizando HTML, JavaScript e CSS
